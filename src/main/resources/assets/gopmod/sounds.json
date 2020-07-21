@@ -1,0 +1,56 @@
+{
+  "drugs_crime_rapists": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "gopmod:drugs_crime_rapists",
+        "stream": false
+      }
+    ]
+  },
+  "excuse_me": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "gopmod:excuse_me",
+        "stream": false
+      }
+    ]
+  },
+  "hillary_fired": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "gopmod:hillary_fired",
+        "stream": false
+      }
+    ]
+  },
+  "i_dont_remember": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "gopmod:i_don_member",
+        "stream": false
+      }
+    ]
+  },
+  "stop_it": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "gopmod:stop_it",
+        "stream": false
+      }
+    ]
+  },
+  "cnn_is_terrible": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "gopmod:cnn_is_terrible",
+        "stream": false
+      }
+    ]
+  }
+}

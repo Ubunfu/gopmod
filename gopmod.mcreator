@@ -1,0 +1,73 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "DonaldTrump",
+      "type": "mob",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "donald_trump"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "drugs_crime_rapists",
+      "file": "drugs_crime_rapists",
+      "category": "neutral"
+    },
+    {
+      "name": "excuse_me",
+      "file": "excuse_me",
+      "category": "neutral"
+    },
+    {
+      "name": "hillary_fired",
+      "file": "hillary_fired",
+      "category": "neutral"
+    },
+    {
+      "name": "i_dont_remember",
+      "file": "i_don_member",
+      "category": "neutral"
+    },
+    {
+      "name": "stop_it",
+      "file": "stop_it",
+      "category": "neutral"
+    },
+    {
+      "name": "cnn_is_terrible",
+      "file": "cnn_is_terrible",
+      "category": "neutral"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.gopmod.donald_trump": "Donald Trump Spawn Egg",
+      "entity.gopmod.donald_trump": "Donald Trump",
+      "item.basicblock.donald_trump": "Donald Trump Spawn Egg",
+      "entity.basicblock.donald_trump": "Donald Trump"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "gopmod",
+    "modName": "GOP Modpack",
+    "version": "0.1.0",
+    "author": "ryanallen, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "com.github.ubunfu.gopmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000322116
+}
